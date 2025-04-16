@@ -1,0 +1,124 @@
+.title{
+    text-align: center;
+}
+.tablef {
+    width: 290px;
+    height:210px;
+    object-fit: cover;
+  }
+
+ 
+  .Glassplates {
+    width: 290px;
+    height:210px;
+    object-fit: cover;
+  }
+  .decor {
+    width: 290px;
+    height:210px;
+    object-fit: cover;
+  }
+  .display{
+    width: 290px;
+    height:210px;
+    object-fit: cover;
+
+  }
+  .puzzle{
+    width: 290px;
+    height:210px;
+    object-fit: cover;
+  }
+  
+  .decorcup{
+    width: 290px;
+    height:210px;
+    object-fit: cover;
+  }
+  .waffles{
+    width: 290px;
+    height:210px;
+    object-fit: cover;
+  }
+  .croisants{
+    width: 290px;
+    height:210px;
+    object-fit: cover;
+  }
+  .bread{
+    width: 290px;
+    height:210px;
+    object-fit: cover;
+  }
+  .cupcake{
+    width: 290px;
+    height:210px;
+    object-fit: cover;
+  }
+
+
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  th {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+  }
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  tr:hover {
+    background-color: #ddd;
+  }
+
+
+  .contact-form {
+    background-color: rgb(249,249,249); 
+    border: 2px solid rgb(160, 178, 208); 
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 500px;
+    margin: auto;
+  
+  }
+  .contact-form label {
+    color: rgb(147, 125, 140); 
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .contact-form input[type="text"],
+  .contact-form input[type="email"],
+  .contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 15px;
+    border: 1px solid rgb(204, 175, 222); 
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  .contact-form textarea {
+    height: 100px; 
+  }
+  
+  .contact-form button {
+    background-color: rgb(211,110,159); 
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .contact-form button:hover {
+    background-color: rgb(162,75,124); 
+  }
